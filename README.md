@@ -1,3 +1,3 @@
-# Codes-Implementation
+# Implemented-Codes
 
 ### *`ThIs ArE SoMe Of ImPlEmEnTaTiOn :)`*
