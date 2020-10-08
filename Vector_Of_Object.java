@@ -264,11 +264,11 @@ class Employee{
 	String eName;
 	int eID;
 	double eSal;
-	Employee(String EName,int EID,double ESal)//parameterized constructor
+	Employee(String eName,int eID,double eSal)//parameterized constructor
 	{
-		eName=EName;
-		eID=EID;
-		eSal=ESal;
+		this.eName=eName;
+		this.eID=eID;
+		this.eSal=eSal;
 	}
 	Employee() //default constructor
 	{
