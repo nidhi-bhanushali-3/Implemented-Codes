@@ -101,10 +101,10 @@ class Account { //class Account to make obj of class
 	int id;
 	String name;
 	double bal;
-	Account(int id_,double bal_,String name_) { //parameterised constructor
-		id=id_;
-		name=name_;
-		bal=bal_;
+	Account(int id,double bal,String name) { //parameterised constructor
+		this.id=id;
+		this.name=name;
+		this.bal=bal;
 	}
 	Account(){ //initailizing to default values
 		id=0;
